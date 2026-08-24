@@ -39,4 +39,4 @@ The schedule is as follows:
 | Tue 07/28 | Dataframes | [Lecture 17](lecture-slides/lecture-17.pdf) · [Lab 17](labs/lab-17.ipynb) · [GRQs](grqs/grqs-16.ipynb) |
 | Wed 07/29 | Data Visualization (Principles) | [Lecture 18](lecture-slides/lecture-18.pdf) · [Lab 18](labs/lab-18.ipynb) · [GRQs](grqs/grqs-17.ipynb) |
 | Thu 07/30 | Data Visualization (in Python) | [Lecture 19](lecture-slides/lecture-19.pdf) · [Lab 19](labs/lab-19.ipynb) · [GRQs](grqs/grqs-18.ipynb) |
-| ***Tue 08/04*** | ***Final Project Assessments*** | [Final project](final-project.pdf) |
+| ***Fri 07/31*** | ***Final Project Assessments*** | [Final project](final-project.pdf) |
